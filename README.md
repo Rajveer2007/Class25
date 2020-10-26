@@ -1,2 +1,2 @@
-# Class25
-Inheritance, Base class, Child class(extends and super) and adding the images to the sprite object
+# angryBirdsStage2
+Angry Birds stage 2 with Class Inheritance and Images
